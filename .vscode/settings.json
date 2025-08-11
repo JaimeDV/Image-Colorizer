@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Color2Embed_pytorch"
+    ]
+}
